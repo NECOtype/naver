@@ -11,10 +11,10 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 build-mode = "apk"
 patcher-args = """\
-	-backgroundColor=#141415 \
-	-overridePlayerGradientColor=false \
-	-backgroundColorSecondary=#252530 \
-	-accentColor=#6e94b2 \
-	-accentColorPressed=#6e94b255 \
+	-ObackgroundColor=#141415 \
+	-OoverridePlayerGradientColor=false \
+	-ObackgroundColorSecondary=#252530 \
+	-OaccentColor=#6e94b2 \
+	-OaccentColorPressed=#6e94b255 \
 """
 included-patches = "'Custom theme'"
