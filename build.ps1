@@ -1,0 +1,1 @@
+java -jar .\revanced-cli-5.0.1-all.jar patch -p .\patches-3.9.0.rvp -e "Custom theme" -ObackgroundColor=#141415 -OoverridePlayerGradientColor=false -ObackgroundColorSecondary=#171717 -OaccentColor=#6e94b2 -OaccentColorPressed=#6e94b250 .\spotify-9-0-48-380.apk
