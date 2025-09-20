@@ -21,4 +21,7 @@ included-patches = "'Custom theme'"
 
 [PicsArt]
 enabled = true
+build-mode = "apk"
+version = "auto"
+uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
