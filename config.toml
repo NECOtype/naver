@@ -18,3 +18,9 @@ patcher-args = """\
 	-OaccentColorPressed=#6e94b255 \
 """
 included-patches = "'Custom theme'"
+
+[PicsArt]
+enabled = true
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+arch = "arm64-v8a"
