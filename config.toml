@@ -18,10 +18,3 @@ patcher-args = """\
 	-OaccentColorPressed=#6e94b255 \
 """
 included-patches = "'Custom theme'"
-
-[Photomath]
-enabled = true
-build-mode = "apk"
-version = "auto"
-uptodown-dlurl = "https://photomath.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
