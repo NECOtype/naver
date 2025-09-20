@@ -19,7 +19,7 @@ patcher-args = """\
 """
 included-patches = "'Custom theme'"
 
-[PicsArt]
+[Photomath]
 enabled = true
 build-mode = "apk"
 version = "auto"
